@@ -13,6 +13,21 @@
  - [x] WiFi + Bluetooth
  - [x] Native hotkey support with Fn keys
 
+## What's not Working
+ - [ ] Sleep + Wake
+ - [ ] Brightness + Brightness Keys
+
+## Installation
+
+###  Basic Installation
+
+- Create a Bootable USB for MacOS by using [USB Installation Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html)
+- Copy **ALL** the Contains of this Repo inside the EFI partition of USB
+
+### Post Installation
+
+- Copy **ALL** the Contains of this Repo inside the EFI partition of Hard Drive where you installed the OS
+
 ### Laptop configuration
 
 
