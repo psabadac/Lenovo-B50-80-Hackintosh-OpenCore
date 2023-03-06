@@ -1,7 +1,7 @@
-# Lenovo-B50-80-Hackintosh-OpenCore
+# Lenovo B50-80 Hackintosh OpenCore
 
 ## What's Working...
- - [x] Audio & headphone jack
+ - [x] Speakers & headphone jack combo
  - [x] CPU Speedstep (XCPM)
  - [x] Fully Functional iGPU QE/CI Enabled Graphics
  - [x] Battery Management
