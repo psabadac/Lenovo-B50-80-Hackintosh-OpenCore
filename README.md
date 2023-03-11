@@ -1,5 +1,9 @@
 # Lenovo B50-80 Hackintosh OpenCore
 
+<p align="center">
+  <img src="https://i.imgur.com/PVU1xHf.png" alt="Specs">
+</p>
+
 ## What's Working...
  - [x] Speakers & headphone jack combo
  - [x] CPU Speedstep (XCPM)
